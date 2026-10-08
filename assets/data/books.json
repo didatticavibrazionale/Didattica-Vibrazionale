@@ -1,0 +1,20 @@
+[
+  {
+    "id": "didattica",
+    "title": "Didattica Vibrazionale – In risonanza con l’armonia",
+    "cover": "/assets/images/cover1.jpg",
+    "page": "/didattica-vibrazionale/",
+    "source": 45,
+    "preview": null,
+    "previewType": "pdf"
+  },
+  {
+    "id": "diario",
+    "title": "Diario delle Competenze Socio-Emotive",
+    "cover": "/assets/images/cover2.jpg",
+    "page": "/competenze-socio-emotive-clima-di-classe/",
+    "source": 1355,
+    "preview": null,
+    "previewType": "pdf"
+  }
+]

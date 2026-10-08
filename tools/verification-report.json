@@ -1,0 +1,36 @@
+{
+  "source": "SQL fornito, 08/10/2026",
+  "structural_checks": {
+    "articles": 70,
+    "local_links_checked": 10200,
+    "broken_links": [],
+    "missing_fragment_targets": [],
+    "home_hotspots": 9
+  },
+  "article_text_segments_checked": 1476,
+  "missing_article_text_segments": [],
+  "metadata_footnotes_restored": 10,
+  "javascript_syntax": "node --check: passed",
+  "external_media": "URL originali conservati; disponibilità esterna non garantita. Test del fallback su errore di caricamento.",
+  "deployment": "Non pubblicato. ZIP pronto per Cloudflare Pages.",
+  "browser_checks": {
+    "results": [
+      "Archivio: 70 articoli, 12 iniziali, caricamento a 24",
+      "Ricerca, filtro categorie, ordine cronologico e stato vuoto: OK",
+      "Ricerca nel testo delle pagine: OK",
+      "Home: 9 hotspot, drag senza navigazione accidentale, reset e accesso tastiera: OK",
+      "Hotspot Libri e dialogo anteprima con Esc: OK",
+      "/risorse/ rotazione e hotspot tastiera: OK",
+      "/podcast/ rotazione e hotspot tastiera: OK",
+      "/universo/ rotazione e hotspot tastiera: OK",
+      "Responsive 390 px: nessun overflow orizzontale nelle 9 sezioni principali",
+      "Responsive 768 px: nessun overflow orizzontale nelle 9 sezioni principali",
+      "Responsive 1440 px: nessun overflow orizzontale nelle 9 sezioni principali",
+      "Menu mobile, Escape e trascinamento mobile: OK",
+      "Reduced motion: autorotazione iniziale disattivata",
+      "Nessun errore JavaScript",
+      "Touch reale emulato: trascinamento senza apertura accidentale; pagina articolo con copertina su mobile: OK"
+    ],
+    "errors": []
+  }
+}

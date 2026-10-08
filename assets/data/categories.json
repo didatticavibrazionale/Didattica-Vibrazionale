@@ -1,0 +1,233 @@
+[
+  {
+    "term_taxonomy_id": 1,
+    "term_id": 1,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 3,
+    "name": "Senza categoria",
+    "slug": "senza-categoria",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 2,
+    "term_id": 2,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Mindfulness</strong> offre un viaggio nella pratica della consapevolezza come strumento per migliorare il benessere e l'apprendimento in classe. Attraverso articoli dedicati, esploreremo come la Mindfulness può aiutare gli studenti a sviluppare una maggiore concentrazione, gestire lo stress e migliorare la loro capacità di apprendimento. Troverai tecniche pratiche di <strong>respirazione e visualizzazione</strong>, oltre a strategie per creare un ambiente di apprendimento più sereno e produttivo, favorendo una relazione armoniosa tra corpo, mente ed emozioni. La consapevolezza diventa così un elemento chiave per la crescita personale e lo sviluppo di una didattica che vibra di energia positiva.",
+    "parent": 24,
+    "count": 14,
+    "name": "Mindfulness",
+    "slug": "mindfulness",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 3,
+    "term_id": 3,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Medicina Tradizionale Cinese</strong> esplora come i principi della MTC  possano essere applicati all'insegnamento per favorire un apprendimento equilibrato e armonioso. Attraverso articoli dedicati, scoprirai come gli elementi della MTC – Legno, Fuoco, Terra, Metallo e Acqua – possano essere utilizzati per comprendere e valorizzare le diverse personalità degli studenti, ottimizzando la formazione dei gruppi di lavoro e migliorando la dinamica di classe. L'approccio vibrazionale della MTC non solo arricchisce la didattica, ma favorisce anche una maggiore consapevolezza del benessere fisico ed emotivo, creando un ambiente educativo che risuona con equilibrio e serenità.",
+    "parent": 24,
+    "count": 6,
+    "name": "Medicina Tradizionale Cinese",
+    "slug": "medicina-tradizionale-cinese",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 4,
+    "term_id": 4,
+    "taxonomy": "category",
+    "description": "La <strong>Programmazione Neuro-Linguistica (PNL)</strong> rappresenta un approccio efficace per migliorare l'insegnamento e l'apprendimento in classe. Utilizzando tecniche di comunicazione avanzata e strategie per gestire le emozioni, la PNL offre strumenti pratici per coinvolgere gli studenti, favorire la loro motivazione e personalizzare l'insegnamento. Applicare la <strong>Programmazione Neuro-Linguistica (PNL)</strong> in aula permette di creare un ambiente di apprendimento più dinamico e interattivo, aiutando gli studenti a sviluppare competenze comunicative e relazionali. In questa sezione  l'obiettivo è esplorare come la PNL possa essere calata nella didattica per trasformare l'esperienza scolastica di tutti gli alunni.",
+    "parent": 0,
+    "count": 3,
+    "name": "PNL",
+    "slug": "programmazione-neuro-linguistica-pnl",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 5,
+    "term_id": 5,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Ambienti di Apprendimento</strong> è dedicata alla creazione di spazi che favoriscano l’armonia e la crescita personale attraverso un approccio vibrazionale. Qui troverai articoli che approfondiscono l'importanza di progettare ambienti scolastici capaci di <strong>risuonare positivamente con gli studenti, sia dal punto di vista fisico che emozionale</strong>. Dall'uso dei colori, della luce e del suono, fino alla disposizione degli arredi e alla creazione di spazi meditativi, ogni elemento contribuisce a migliorare la qualità dell'apprendimento. Scopri come gli ambienti possono diventare catalizzatori per una didattica innovativa e consapevole.",
+    "parent": 24,
+    "count": 7,
+    "name": "Ambienti di Apprendimento",
+    "slug": "ambienti-di-apprendimento",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 6,
+    "term_id": 6,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 3,
+    "name": "Frequenze Neuroacustiche",
+    "slug": "frequenze-neuroacustiche",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 7,
+    "term_id": 7,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Matematica Divertente</strong> è dedicata a rendere l’apprendimento matematico un’esperienza stimolante e giocosa. Attraverso aneddoti curiosi e giochi matematici, gli studenti sono invitati a esplorare concetti complessi in modo coinvolgente e leggero. Ogni articolo propone sfide matematiche, puzzle e attività ludiche che trasformano il processo di apprendimento in un’avventura divertente, dimostrando che la matematica può essere affascinante, accessibile e soprattutto divertente. L’obiettivo è stimolare la curiosità e il pensiero critico, creando un ambiente di apprendimento positivo e creativo.",
+    "parent": 86,
+    "count": 9,
+    "name": "Matematica Divertente",
+    "slug": "matematica-divertente",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 8,
+    "term_id": 8,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Armonia Matematica</strong> esplora la bellezza intrinseca della matematica come strumento di connessione tra mente, emozioni e realtà. Attraverso articoli che intrecciano concetti matematici e vibrazionali, scoprirai come la matematica possa essere presentata non solo come una disciplina logica, ma anche come un'arte che genera emozioni, stimola la creatività e favorisce l’equilibrio interiore. Dalla geometria sacra alle proporzioni auree, fino ai numeri che risuonano con i ritmi della natura, ogni aspetto della matematica diventa un’opportunità per promuovere un apprendimento più consapevole e armonioso.",
+    "parent": 86,
+    "count": 10,
+    "name": "Armonia Matematica",
+    "slug": "armonia-matematica",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 9,
+    "term_id": 9,
+    "taxonomy": "category",
+    "description": "In questa categoria esploriamo gli affascinanti collegamenti tra <strong>matematica e musica</strong>, due discipline che, seppur apparentemente diverse, si intrecciano in modi sorprendenti. La musica non è solo un'espressione artistica, ma è intrisa di strutture matematiche, armonie e ritmi che possono essere analizzati attraverso la lente dei numeri.\r\n\r\nAttraverso <strong>esperienze pratiche</strong> e <strong>attività coinvolgenti</strong>, gli studenti potranno scoprire come <strong>i numeri si trasformano in note</strong>, creando melodie uniche e stimolanti. Inoltre, esploreremo concetti come le proporzioni e le frequenze, il che permetterà di comprendere come la musica possa essere descritta e analizzata matematicamente.\r\n\r\nIl viaggio continua con la <strong>cimatica</strong>, dove la musica prende vita visivamente, mostrando come le <strong>onde sonore possano creare forme geometriche straordinarie</strong>. Questo spazio è dedicato a tutti coloro che desiderano approfondire i legami tra queste due discipline, stimolando la creatività e il pensiero critico attraverso un approccio innovativo.",
+    "parent": 86,
+    "count": 2,
+    "name": "Musica e Matematica",
+    "slug": "matematica-e-musica",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 10,
+    "term_id": 10,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Respirazione</strong> esplora una delle pratiche fondamentali per favorire la concentrazione e il benessere in aula. Qui troverai una varietà di tecniche respiratorie studiate per migliorare l'attenzione e la calma degli studenti, ottimizzando il processo di apprendimento. Dalla respirazione quadrata a quella a narici alternate, fino all'associazione con la visualizzazione creativa, ogni esercizio è pensato per sviluppare una connessione più profonda tra corpo e mente, offrendo strumenti semplici ma efficaci per gestire lo stress e potenziare la consapevolezza in ogni momento della giornata scolastica.",
+    "parent": 2,
+    "count": 9,
+    "name": "Respirazione",
+    "slug": "respirazione",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 24,
+    "term_id": 24,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Didattica Consapevole</strong> raccoglie una vasta gamma di metodologie innovative che pongono al centro l'individuo, la consapevolezza e l'equilibrio emotivo. Qui troverai tecniche di personalizzazione della didattica basate su PNL (Programmazione Neuro-Linguistica) e Medicina Tradizionale Cinese (MTC), unitamente a pratiche di <strong>Mindfulness</strong> per favorire il benessere e l'apprendimento consapevole. La sezione include anche approcci di valutazione olistica e personalizzata, la creazione di <strong>Ambienti di Apprendimento</strong> armoniosi e lezioni <strong>peer to peer</strong>, che promuovono la cooperazione tra studenti. Grazie a strategie fondate sull’incoraggiamento e l’apprezzamento, il focus è sulla crescita emotiva, cognitiva e sociale, per creare un'educazione efficace e umanamente vibrante.",
+    "parent": 0,
+    "count": 51,
+    "name": "Didattica consapevole",
+    "slug": "didattica-consapevole",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 29,
+    "term_id": 29,
+    "taxonomy": "category",
+    "description": "La sezione <strong>Valutazione</strong> si concentra su strumenti e metodologie innovative per misurare il progresso degli studenti in modo olistico e personalizzato. In un contesto di Didattica Vibrazionale, la valutazione non si limita a numeri e voti, ma diventa un processo continuo di osservazione e riflessione che tiene conto dello sviluppo cognitivo, emotivo e sociale degli studenti. Qui esplorerai approcci alternativi per monitorare l'apprendimento, basati su feedback costruttivo, auto-valutazione e strumenti digitali interattivi, con l'obiettivo di promuovere una crescita armoniosa e consapevole.",
+    "parent": 24,
+    "count": 3,
+    "name": "Valutazione",
+    "slug": "valutazione",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 33,
+    "term_id": 33,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 1,
+    "name": "Tecniche di memorizzazione",
+    "slug": "tecniche-di-memorizzazione",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 36,
+    "term_id": 36,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 31,
+    "name": "Strategie didattiche",
+    "slug": "strategie-didattiche",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 45,
+    "term_id": 45,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 12,
+    "name": "Vita da Profe",
+    "slug": "vita-da-profe",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 62,
+    "term_id": 62,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 3,
+    "name": "Intelligenza Artificiale",
+    "slug": "intelligenza-artificiale",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 85,
+    "term_id": 85,
+    "taxonomy": "category",
+    "description": "Tutte le attività realizzate con gli studenti, le ho sempre<strong> fortemente immaginate prima nei dettagli</strong> e quelle riportate nel blog, al momento della sua nascita, si riferiscono ad attività descritte così come si sono svolte, ovvero dove ho avuto modo di “aggiustare” la descrizione dell’attività immaginata con quella realmente verificatasi. Tuttavia, all’inizio di quest’anno scolastico, la mente corre più veloce del tempo pratico a disposizione, così mi trovo a fantasticare decine di attività che probabilmente non riuscirò a realizzare tutte nell’immediato. Queste, se le renderò pubbliche nello loro stato ancora vibrazionale, saranno contrassegnate anche nella categoria “<em>works in progress</em>” o “<em>praticamente in teoria</em>“, e mi riservo pertanto di aggiornarle dopo l’effettiva materializzazione.",
+    "parent": 0,
+    "count": 4,
+    "name": "works in progress",
+    "slug": "works-in-progress",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 86,
+    "term_id": 86,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 0,
+    "count": 9,
+    "name": "Matematica",
+    "slug": "matematica",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 153,
+    "term_id": 153,
+    "taxonomy": "category",
+    "description": "In questa sezione  condivido riflessioni e notizie che riguardano la nostra delicata funzione di docenti",
+    "parent": 0,
+    "count": 9,
+    "name": "Funzione Docente",
+    "slug": "funzione-docente",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 194,
+    "term_id": 194,
+    "taxonomy": "category",
+    "description": "Lo storytelling matematico trasforma la matematica in un’esperienza viva, ricca di emozioni e significato. In questa sezione trovi racconti, video e attività che presentano concetti, scoperte e protagonisti della storia della matematica attraverso narrazioni coinvolgenti. Le storie aiutano a creare connessioni, accendono la curiosità, rendono i concetti più accessibili e stimolano una comprensione profonda. Qui la matematica non è solo una disciplina: è un viaggio fatto di intuizioni, avventure e meraviglia.",
+    "parent": 36,
+    "count": 2,
+    "name": "Storytelling Matematico",
+    "slug": "storytelling-matematico",
+    "term_group": 0
+  },
+  {
+    "term_taxonomy_id": 227,
+    "term_id": 227,
+    "taxonomy": "category",
+    "description": "",
+    "parent": 24,
+    "count": 4,
+    "name": "Competenze non Cognitive e Trasversali",
+    "slug": "competenze-non-cognitive-e-trasversali",
+    "term_group": 0
+  }
+]

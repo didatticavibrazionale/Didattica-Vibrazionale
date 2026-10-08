@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Home",
+    "url": "/",
+    "parent": "0",
+    "order": 1
+  },
+  {
+    "title": "Contatti",
+    "url": "/contatti/",
+    "parent": "0",
+    "order": 30
+  },
+  {
+    "title": "Articoli",
+    "url": "/articoli/",
+    "parent": "0",
+    "order": 2
+  },
+  {
+    "title": "Accedi",
+    "url": "/articoli/",
+    "parent": "0",
+    "order": 27
+  },
+  {
+    "title": "Iscriviti",
+    "url": "/articoli/",
+    "parent": "212",
+    "order": 29
+  },
+  {
+    "title": "Accout",
+    "url": "/articoli/",
+    "parent": "212",
+    "order": 28
+  },
+  {
+    "title": "Didattica Vibrazionale: un approccio alle Competenze Socio-Emotive per coniugare Benessere e Apprendimento.",
+    "url": "/inizia-da-qui/origini/",
+    "parent": "245",
+    "order": 4
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "98",
+    "order": 3
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "98",
+    "order": 11
+  },
+  {
+    "title": "La mindfulness per il benessere e l'apprendimento",
+    "url": "/articoli/la-mindfulness-per-il-benessere-e-per-l-apprendimento/",
+    "parent": "244",
+    "order": 5
+  },
+  {
+    "title": "Modulo di contatto 1",
+    "url": "/",
+    "parent": "246",
+    "order": 14
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "428",
+    "order": 17
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "246",
+    "order": 13
+  },
+  {
+    "title": "Progetto EduCreativo",
+    "url": "/educreativo/",
+    "parent": "0",
+    "order": 26
+  },
+  {
+    "title": "Didattica Vibrazionale (Libro)",
+    "url": "/didattica-vibrazionale/",
+    "parent": "98",
+    "order": 20
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "245",
+    "order": 6
+  },
+  {
+    "title": "Privacy Policy",
+    "url": "/privacy-policy/",
+    "parent": "245",
+    "order": 7
+  },
+  {
+    "title": "Svuotare per Riempire: Ripulire la Mente per Favorire l’Apprendimento",
+    "url": "/articoli/svuotare-per-riempire-ripulire-la-mente-per-favorire-lapprendimento/",
+    "parent": "245",
+    "order": 9
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "98",
+    "order": 16
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "428",
+    "order": 19
+  },
+  {
+    "title": "Respirazione Circolare",
+    "url": "/articoli/respirazione-circolare/",
+    "parent": "246",
+    "order": 15
+  },
+  {
+    "title": "Navigazione",
+    "url": "/",
+    "parent": "245",
+    "order": 8
+  },
+  {
+    "title": "",
+    "url": "/",
+    "parent": "428",
+    "order": 18
+  },
+  {
+    "title": "Respirazione a Narici Alternate",
+    "url": "/",
+    "parent": "98",
+    "order": 21
+  },
+  {
+    "title": "Cookie Policy (UE)",
+    "url": "/cookie-policy-ue/",
+    "parent": "0",
+    "order": 2
+  },
+  {
+    "title": "Privacy Policy",
+    "url": "/privacy-policy/",
+    "parent": "0",
+    "order": 1
+  },
+  {
+    "title": "Inizia da Qui",
+    "url": "/inizia-da-qui/",
+    "parent": "0",
+    "order": 23
+  },
+  {
+    "title": "capire-la-matematica",
+    "url": "/",
+    "parent": "98",
+    "order": 10
+  },
+  {
+    "title": "PODCAST",
+    "url": "/podcast/",
+    "parent": "0",
+    "order": 24
+  },
+  {
+    "title": "Risorse",
+    "url": "/risorse/",
+    "parent": "0",
+    "order": 25
+  },
+  {
+    "title": "Storytelling",
+    "url": "/risorse/storytelling/",
+    "parent": "246",
+    "order": 12
+  },
+  {
+    "title": "Libri",
+    "url": "/libri/",
+    "parent": "0",
+    "order": 22
+  }
+]

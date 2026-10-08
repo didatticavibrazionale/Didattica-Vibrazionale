@@ -1,0 +1,316 @@
+{
+  "home": {
+    "image": "/assets/images/atrio.webp",
+    "mode": "panorama",
+    "aspect": 2,
+    "initial": 0.5,
+    "hotspots": [
+      {
+        "label": "Chi sono",
+        "url": "/chi-sono/",
+        "x": 0.006,
+        "y": 0.21,
+        "w": 0.115,
+        "h": 0.45
+      },
+      {
+        "label": "Libri",
+        "url": "/libri/",
+        "x": 0.125,
+        "y": 0.285,
+        "w": 0.103,
+        "h": 0.36
+      },
+      {
+        "label": "Inizia da qui",
+        "url": "/inizia-da-qui/",
+        "x": 0.242,
+        "y": 0.24,
+        "w": 0.116,
+        "h": 0.39
+      },
+      {
+        "label": "Podcast",
+        "url": "/podcast/",
+        "x": 0.587,
+        "y": 0.373,
+        "w": 0.055,
+        "h": 0.245
+      },
+      {
+        "label": "Risorse",
+        "url": "/risorse/",
+        "x": 0.648,
+        "y": 0.38,
+        "w": 0.044,
+        "h": 0.23
+      },
+      {
+        "label": "Progetto EduCreativo",
+        "url": "/educreativo/",
+        "x": 0.696,
+        "y": 0.34,
+        "w": 0.064,
+        "h": 0.28
+      },
+      {
+        "label": "Articoli",
+        "url": "/articoli/",
+        "x": 0.767,
+        "y": 0.312,
+        "w": 0.062,
+        "h": 0.3
+      },
+      {
+        "label": "Accedi al mio universo",
+        "url": "/universo/",
+        "x": 0.836,
+        "y": 0.237,
+        "w": 0.093,
+        "h": 0.416
+      },
+      {
+        "label": "Contatti",
+        "url": "/contatti/",
+        "x": 0.936,
+        "y": 0.25,
+        "w": 0.064,
+        "h": 0.41
+      }
+    ]
+  },
+  "risorse": {
+    "image": "/assets/images/risorse-placeholder.webp",
+    "mode": "360",
+    "aspect": 4,
+    "initial": 0.5,
+    "placeholder": true,
+    "hotspots": [
+      {
+        "label": "Storytelling",
+        "url": "/risorse/storytelling/",
+        "x": 0.07142857142857142,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Escape Room",
+        "url": "/risorse/escape-room/",
+        "x": 0.21428571428571427,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Matematica (ri)creativa",
+        "url": "/risorse/matematica-ricreativa/",
+        "x": 0.35714285714285715,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Micro Strategie Pratiche di Didattica Socio-Emotiva",
+        "url": "/risorse/micro-strategie/",
+        "x": 0.5,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "App educative",
+        "url": "/risorse/app-educative/",
+        "x": 0.6428571428571429,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Flipped Classroom",
+        "url": "/risorse/flipped-classroom/",
+        "x": 0.7857142857142857,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Concetti (sor)RIDENDO",
+        "url": "/risorse/sorridendo/",
+        "x": 0.9285714285714286,
+        "y": 0.49,
+        "w": 0.10714285714285714,
+        "h": 0.42,
+        "theme": 0
+      }
+    ]
+  },
+  "podcast": {
+    "image": "/assets/images/podcast-placeholder.webp",
+    "mode": "360",
+    "aspect": 4,
+    "initial": 0.5,
+    "placeholder": true,
+    "hotspots": [
+      {
+        "label": "Stagione 1 · Episodio 1",
+        "url": "https://open.spotify.com/episode/03bfhWh9dcuNTKEdvx0tiQ?si=vyQLHiR1Q46Jrm4ZaJrF3A",
+        "x": 0.038461538461538464,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Stagione 1 · Episodio 2",
+        "url": "https://open.spotify.com/episode/1dauMPxQmKY4cBCKAgJv28?si=Qo3xMxveRXyT8uY_zf5SgA",
+        "x": 0.11538461538461539,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Stagione 1 · Episodio 3",
+        "url": "https://open.spotify.com/episode/09L8skhSR8JImE2qLXEHKb?si=udEUWE_HT2OpaW4NGBlbFQ",
+        "x": 0.19230769230769232,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Stagione 1 · Episodio 4",
+        "url": "https://open.spotify.com/episode/1P5I21TAUW30H6GbwkZgkF?si=f4FtP0f6QtObpqQQdq_T7A",
+        "x": 0.2692307692307692,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Stagione 1 · Episodio 5",
+        "url": "https://open.spotify.com/episode/5Zc3OnG4WgPN69FCs32QIO?si=E_qFp738QJKnzOpFZlroUw",
+        "x": 0.34615384615384615,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Stagione 1 · Episodio 6",
+        "url": "https://open.spotify.com/episode/7e1TbFcXE69Aj8KfrfNRi8?si=txgONK-mRei63lHqMWwxUQ",
+        "x": 0.4230769230769231,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Stagione 1 · Episodio 7",
+        "url": "https://open.spotify.com/episode/2UDUtYUYCAJJ7D4q3v7P46?si=cmhCwTujS7a94rQeHBWL3w",
+        "x": 0.5,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Stagione 1 · Episodio 8",
+        "url": "https://open.spotify.com/episode/704NEdoQzPnWzMGGEIR46x?si=8W8lwixISCOiCpiBV9AYvQ",
+        "x": 0.5769230769230769,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Stagione 1 · Episodio 9",
+        "url": "https://open.spotify.com/episode/4greAuuXMGlK2ug0Qrn8hN",
+        "x": 0.6538461538461539,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Stagione 1 · Episodio 10",
+        "url": "https://open.spotify.com/episode/6geo9HOT6ahv4u0GTxCHCb?si=MEWgg6IlRECH6LbfofQ-9A",
+        "x": 0.7307692307692307,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Stagione 1 · Episodio 11",
+        "url": "https://open.spotify.com/episode/2sp2gJH4D5WoXODbMWnwm3?si=ZcdI703-QmSsXDhB5EoXbw",
+        "x": 0.8076923076923077,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Stagione 1 · Episodio 12",
+        "url": "https://open.spotify.com/episode/19BiqCPWlOeubBpjsSo1kt?si=9L5QkqtTSheiIBHZbqZiTA",
+        "x": 0.8846153846153846,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 2
+      },
+      {
+        "label": "Stagione 2 · Episodio 1",
+        "url": "https://youtu.be/rW2OEgIpajM?si=J2iylVEGMR6DVOwc",
+        "x": 0.9615384615384616,
+        "y": 0.49,
+        "w": 0.057692307692307696,
+        "h": 0.42,
+        "theme": 0
+      }
+    ]
+  },
+  "universo": {
+    "image": "/assets/images/universo-placeholder.webp",
+    "mode": "360",
+    "aspect": 4,
+    "initial": 0.5,
+    "placeholder": true,
+    "hotspots": [
+      {
+        "label": "Emozioni · Consapevolezza · Meditazione",
+        "url": "/universo/consapevolezza/",
+        "x": 0.16666666666666666,
+        "y": 0.49,
+        "w": 0.15,
+        "h": 0.42,
+        "theme": 0
+      },
+      {
+        "label": "Mate e Matica · Circonia",
+        "url": "/universo/mate-e-matica/",
+        "x": 0.5,
+        "y": 0.49,
+        "w": 0.15,
+        "h": 0.42,
+        "theme": 1
+      },
+      {
+        "label": "Storytelling Express",
+        "url": "/universo/storytelling-express/",
+        "x": 0.8333333333333334,
+        "y": 0.49,
+        "w": 0.15,
+        "h": 0.42,
+        "theme": 2
+      }
+    ]
+  }
+}

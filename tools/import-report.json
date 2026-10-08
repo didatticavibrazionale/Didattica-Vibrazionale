@@ -1,0 +1,90 @@
+{
+  "source": "Esportazione WordPress 08/10/2026",
+  "published_articles": 70,
+  "published_pages": 35,
+  "content_pages": 26,
+  "account_pages_redirected": 9,
+  "categories": 21,
+  "tags": 219,
+  "podcast_episodes": 13,
+  "removed_dynamic_components": [
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "query"
+    },
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "post-template"
+    },
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "post-featured-image"
+    },
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "post-title"
+    },
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "query"
+    },
+    {
+      "id": 40,
+      "type": "dynamic-block",
+      "block": "query"
+    },
+    {
+      "id": 1075,
+      "type": "dynamic-block",
+      "block": "read-more"
+    },
+    {
+      "id": 1372,
+      "type": "dynamic-block",
+      "block": "read-more"
+    },
+    {
+      "id": 88,
+      "type": "shortcode",
+      "shortcode": "[contact-form-7 id=\"d26b68d\" title=\"Modulo di contatto 1\"]"
+    },
+    {
+      "id": 434,
+      "type": "dynamic-block",
+      "block": "complianz/document"
+    }
+  ],
+  "converted_components": [
+    {
+      "id": 1044,
+      "type": "iframe-link",
+      "url": "https://www.didatticavibrazionale.it/wp-content/uploads/2025/11/Scheda_Didattica_Talete.pdf"
+    },
+    {
+      "id": 1032,
+      "type": "removed-login-invitation"
+    },
+    {
+      "id": 1431,
+      "type": "iframe-link",
+      "url": "https://www.didatticavibrazionale.it/wp-content/uploads/2026/03/kirtan_kriya_scheda_didattica.pdf"
+    }
+  ],
+  "old_domain_links_to_review": [],
+  "media_references": 182,
+  "placeholders": [
+    "Sfondi Risorse, Podcast e Universo",
+    "Anteprime PDF dei due libri",
+    "Instagram e indirizzo postale",
+    "Informativa privacy del nuovo hosting e condizioni generali di riuso",
+    "Flipped Classroom e (sor)RIDENDO: nessun link nel SQL",
+    "PiGrecopolis: pagina originale vuota",
+    "Illustrazioni definitive dei singoli universi"
+  ],
+  "note": "Testi completi importati; nessun utente, password, ordine o tabella privata incluso."
+}
