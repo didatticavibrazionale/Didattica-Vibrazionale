@@ -1707,14 +1707,14 @@
   {
     "id": 1302,
     "type": "page",
-    "title": "Libri",
+    "title": "Libri · La biblioteca",
     "slug": "libri",
     "url": "/libri/",
     "date": "2026-01-15",
-    "excerpt": "",
+    "excerpt": "Quattro libri di Claudia Bartoli: didattica, competenze socio-emotive e storytelling matematico.",
     "categories": [],
     "tags": [],
-    "text": "",
+    "text": "Didattica Vibrazionale – In risonanza con l’armonia Diario delle Competenze Socio-Emotive Mate Matica e la magia nella formula Storytelling Express – Raccontare la matematica",
     "image": ""
   },
   {
@@ -1794,5 +1794,35 @@
     "tags": [],
     "text": "",
     "image": ""
+  },
+  {
+    "id": "mate-matica",
+    "type": "page",
+    "title": "Mate Matica e la magia nella formula",
+    "slug": "mate-matica-e-la-magia-nella-formula",
+    "url": "/libri/mate-matica-e-la-magia-nella-formula/",
+    "date": "2026-10-08",
+    "excerpt": "Mate ha dieci anni, vive a Circonia e la matematica è il suo ostacolo più grande. Ogni problema sembra più difficile del precedente, finché uno strano medaglione la porta a vivere i panni di Matica, una giovane professor",
+    "categories": [],
+    "tags": [
+      "Libri"
+    ],
+    "text": "Mate ha dieci anni, vive a Circonia e la matematica è il suo ostacolo più grande. Ogni problema sembra più difficile del precedente, finché uno strano medaglione la porta a vivere i panni di Matica, una giovane professoressa di Matematica dai capelli rosa, capace di trasformare ogni enigma in una scoperta. Tra misteri, problemi da risolvere, salti inattesi, antichi matematici e piccole grandi sfide quotidiane, Mate imparerà che dietro una formula può nascondersi una storia, dietro un errore un nuovo inizio, dietro la paura di non essere capace una possibilità ancora inesplorata. A Circonia c’è anche un giovane preside, elegante e curioso, che segue le tracce di quella ragazza in rosa apparsa all’improvviso e capace di scomparire con altrettanta rapidità. Il suo incontro con Mate e Matica aprirà una domanda destinata a restare sospesa fino alla fine.",
+    "image": "/assets/images/mate-matica-cover.png"
+  },
+  {
+    "id": "storytelling-express",
+    "type": "page",
+    "title": "Storytelling Express – Raccontare la matematica",
+    "slug": "storytelling-express",
+    "url": "/libri/storytelling-express/",
+    "date": "2026-10-08",
+    "excerpt": "E se la matematica, prima di essere spiegata, potesse essere raccontata?",
+    "categories": [],
+    "tags": [
+      "Libri"
+    ],
+    "text": "E se la matematica, prima di essere spiegata, potesse essere raccontata? Dietro ogni formula c’è una domanda, dietro ogni scoperta un’intuizione, un errore, un ostacolo superato. Storytelling Express – Raccontare la matematica restituisce alla disciplina questa dimensione umana, trasformando concetti e problemi in esperienze narrative capaci di suscitare curiosità, coinvolgimento e desiderio di comprendere. Il volume presenta Storytelling Express, un metodo didattico che integra narrazione, storia della matematica, competenze socio-emotive, problem solving e metacognizione. Non propone storie come semplici espedienti per rendere più piacevole la lezione, ma come autentici dispositivi pedagogici attraverso i quali preparare l’incontro con i concetti, rendere visibili i processi di pensiero e costruire un rapporto più sereno e significativo con la matematica.",
+    "image": "/assets/images/storytelling-express-cover.png"
   }
 ]

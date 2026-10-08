@@ -2,6 +2,20 @@
 
 **In risonanza con l’armonia** — sito statico completo, esportazione del 08/10/2026.
 
+## Aggiornamento panorami e biblioteca · 08/10/2026
+
+La home ora usa una **proiezione sferica WebGL** ispirata al viewer fornito: rotazione completa orizzontale, rotazione verticale limitata a ±70°, rotellina, pulsanti +/−, pinch a due dita. Campo visivo iniziale 105° e massimo 145° per allontanarsi maggiormente. Gli hotspot seguono la prospettiva. L’immagine originale è conservata: la proiezione su una sfera può mostrarne la giuntura e le deformazioni, non modifica i pixel per renderla un panorama fotografico senza cuciture.
+
+Podcast e Universo usano nuovi sfondi fiabeschi e la stessa proiezione sferica. Il microfono e le due postazioni del Podcast rimandano agli episodi e alle stagioni. Le tre porte dell’Universo conducono ai rispettivi percorsi. Risorse conserva per ora il precedente ambiente provvisorio.
+
+La biblioteca presenta quattro copertine allineate; aggiunte le schede `libri/mate-matica-e-la-magia-nella-formula/` e `libri/storytelling-express/`, con descrizioni fornite da Claudia e link Amazon già presenti nel database. I nuovi sfondi sono immagini generate per questo aggiornamento. Le copertine aggiunte sono state recuperate dagli URL originali.
+
+In `assets/data/scenes.json`, per gli ambienti sferici `x,y` indicano il centro dell’area nell’immagine; `w,h` sono la sua estensione nella texture, non nello schermo. Parametri `fov`, `minFov`, `maxFov`, `pitch`, `pitchLimit` personalizzano vista e zoom.
+
+L’esportazione SQL contiene 37 articoli in bozza con testo e una pagina in bozza. Questo aggiornamento non li pubblica.
+
+Le istruzioni di migrazione sottostanti descrivono anche la prima versione. `tools/rebuild.py` ricrea quella struttura iniziale: non eseguirlo per applicare questa patch, perché sovrascriverebbe le nuove pagine e la configurazione dei panorami. La patch va copiata sul progetto esistente mantenendo i percorsi.
+
 ## Contenuto del pacchetto
 
 - 70 articoli pubblicati, con testo integrale, data, slug, categorie, tag, immagini e collegamenti presenti nel SQL.
