@@ -78,10 +78,10 @@
         "h": 0.41
       }
     ],
-    "fov": 105,
+    "fov": 85,
     "minFov": 30,
     "maxFov": 145,
-    "pitch": 5,
+    "pitch": 0,
     "pitchLimit": 70
   },
   "risorse": {
